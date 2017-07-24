@@ -1,6 +1,6 @@
 {
   "name": "my-components",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "My Components, an Angular library",
   "main": "./bundles/my-components.umd.js",
   "scripts": {
